@@ -23,3 +23,4 @@ It is a project to record my learning schedule and share learning resource.
 |   | （ら）れる(可能) | https://www.sigure.tw/learn-japanese/grammar/n4/15.php |
 |   | （ら）れる(自發) | https://www.sigure.tw/learn-japanese/grammar/n4/15.php |
 |   | （ら）れる(尊敬) | https://www.sigure.tw/learn-japanese/grammar/n4/15.php |
+|   | 見える & 見られる | https://www.sigure.tw/learn-japanese/mix/difference/mieru-mirareru.php |
