@@ -29,3 +29,7 @@ It is a project to record my learning schedule and share learning resource.
 | 2020/07/15  | 複合語 | https://jp.sonic-learning.com/2011/05/05/gl55/ |
 |   |   | https://www.sigure.tw/learn-japanese/grammar/n4/34.php |
 |   | 戻る＆帰る | https://hinative.com/ja/questions/235331#answer-539428 |
+| 2020/07/16  | そうだ（なさそう、良さそう） | https://www.sigure.tw/learn-japanese/grammar/n4/22.php |
+|   | ず（終わらせず） | https://www.sigure.tw/learn-japanese/grammar/n4/21.php |
+|   | とけ（やめとけ） | https://jp.sonic-learning.com/2015/08/12/henka04/ |
+
