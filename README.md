@@ -44,5 +44,6 @@ It is a project to record my learning schedule and share learning resource.
 | 2020/07/22  | ご連絡まで | <a href="https://www.facebook.com/121678347864500/photos/%E6%96%87%E6%B3%95%E7%AD%86%E8%A8%98%E4%BF%A1%E4%BB%B6%E4%B8%AD%E7%9A%84%E3%81%BE%E3%81%A7%E4%B8%80%E4%BD%8D%E5%9C%A8%E6%97%A5%E5%95%86%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%AD%B8%E7%94%9F%E8%B7%9F%E6%88%91%E8%AA%AA%E5%85%AC%E5%8F%B8%E5%85%A7%E9%83%A8%E7%9A%84%E6%9B%B8%E4%BF%A1%E4%B8%AD%E5%B8%B8%E6%9C%83%E7%94%A8%E3%81%BE%E3%81%A7%E4%BE%8B%E5%A6%82%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%BE%E3%81%A7%E7%94%B1%E6%96%BC%E4%BB%96%E4%B8%8D%E6%9C%83%E7%94%A8%E3%81%BE%E3%81%A7%E6%89%80%E4%BB%A5%E5%BE%88%E6%93%94%E5%BF%83%E5%85%B6%E5%AF%A6%E5%A4%A7%E9%83%A8%E4%BB%BD%E7%9A%84%E4%BA%BA%E7%9C%8B%E8%91%97%E5%90%8C%E4%BA%8B%E6%88%96%E4%B8%8A%E5%8F%B8%E7%94%A8%E3%81%BE%E3%81%A7%E4%B9%9F%E6%9C%83%E8%B7%9F%E8%91%97%E6%A8%A1/1147627658602892/">王可樂日語</a> |
 | 2020/07/23  | 「そう・よう・らしい・みたい」的差別 | https://www.sigure.tw/learn-japanese/grammar/n4/27.php |
 | 2020/07/24  | 「である」的接續問題 | https://www.facebook.com/chiuyangteacher/posts/1186023641464542/ |
+| 2020/07/26  | 「んです」 | https://jp.hjenglish.com/riyuyufa/p428687/ |
 | 文法學習  |  | https://www.sigure.tw/learn-japanese/grammar/ |
 | 2020/07/26  | N5:1~4 |  |
