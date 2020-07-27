@@ -47,3 +47,5 @@ It is a project to record my learning schedule and share learning resource.
 | 2020/07/26  | 「んです」 | https://jp.hjenglish.com/riyuyufa/p428687/ |
 | 文法學習  |  | https://www.sigure.tw/learn-japanese/grammar/ |
 | 2020/07/26  | N5:1~4 |  |
+| 2020/07/27  | N5:5~8 |  |
+| 2020/07/28  | N5:9~12 |  |
